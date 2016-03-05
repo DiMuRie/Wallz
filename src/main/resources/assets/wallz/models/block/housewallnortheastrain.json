@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_ne",
+    "textures": {
+        "edge": "blocks/hardened_clay_stained_cyan",
+        "pane": "wallz:blocks/rbgwall"
+    }
+}

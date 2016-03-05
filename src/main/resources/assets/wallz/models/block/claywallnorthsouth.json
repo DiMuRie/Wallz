@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_ns",
+    "textures": {
+        "edge": "blocks/hardened_clay_stained_cyan",
+        "pane": "blocks/hardened_clay_stained_cyan"
+    }
+}

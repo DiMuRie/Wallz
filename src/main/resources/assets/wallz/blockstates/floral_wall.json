@@ -1,0 +1,23 @@
+{
+	"forge_marker": 1,
+    "variants": {
+		"normal": [{}],
+		"inventory": [{}],
+        "east=false,north=false,south=false,west=false": { "model": "wallz:floralwall4sides" },
+        "east=false,north=true,south=false,west=false": { "model": "wallz:floralwallnorth" },
+        "east=true,north=false,south=false,west=false": { "model": "wallz:floralwallnorth", "y": 90 },
+        "east=false,north=false,south=true,west=false": { "model": "wallz:floralwallnorth", "y": 180 },
+        "east=false,north=false,south=false,west=true": { "model": "wallz:floralwallnorth", "y": 270 },
+        "east=true,north=true,south=false,west=false": { "model": "wallz:floralwallnortheast" },
+        "east=true,north=false,south=true,west=false": { "model": "wallz:floralwallnortheast", "y": 90 },
+        "east=false,north=false,south=true,west=true": { "model": "wallz:floralwallnortheast", "y": 180 },
+        "east=false,north=true,south=false,west=true": { "model": "wallz:floralwallnortheast", "y": 270 },
+        "east=false,north=true,south=true,west=false": { "model": "wallz:floralwallnorthsouth" },
+        "east=true,north=false,south=false,west=true": { "model": "wallz:floralwallnorthsouth", "y": 90 },
+        "east=true,north=true,south=true,west=false": { "model": "wallz:floralwallnorthsoutheast" },
+        "east=true,north=false,south=true,west=true": { "model": "wallz:floralwallnorthsoutheast", "y": 90 },
+        "east=false,north=true,south=true,west=true": { "model": "wallz:floralwallnorthsoutheast", "y": 180 },
+        "east=true,north=true,south=false,west=true": { "model": "wallz:floralwallnorthsoutheast", "y": 270 },
+        "east=true,north=true,south=true,west=true": { "model": "wallz:floralwall4sides" }
+    }
+}

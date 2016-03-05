@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "normal": [
+			{ "model": "wallz:rainleaf/0" },
+			{ "model": "wallz:rainleaf/1" },
+			{ "model": "wallz:rainleaf/2" },	
+			{ "model": "wallz:rainleaf/3" },
+			{ "model": "wallz:rainleaf/4" },
+			{ "model": "wallz:rainleaf/5" },
+			{ "model": "wallz:rainleaf/6" },
+			{ "model": "wallz:rainleaf/7" },
+			{ "model": "wallz:rainleaf/8" },
+			{ "model": "wallz:rainleaf/9" },
+			{ "model": "wallz:rainleaf/10" },
+			{ "model": "wallz:rainleaf/11" },
+			{ "model": "wallz:rainleaf/12" },
+			{ "model": "wallz:rainleaf/13" },
+			{ "model": "wallz:rainleaf/14" },
+			{ "model": "wallz:rainleaf/15" }
+		]
+	}
+}

@@ -1,0 +1,18 @@
+
+language.name=English
+language.region=US
+language.code=en_US
+
+tile.wooden_wall.name=Wooden Wall
+tile.floral_wall.name=Floral Wall
+tile.clay_wall.name=Clay Wall
+tile.house_wall.name=Night like wall
+tile.rainbow_wall.name=Rainbow like wall
+item.roller.name=Roller
+item.superoller.name=Super Roller
+tile.rainleaf.name=Rainbow Leaves
+item.reset.name=Speed reseter
+item.lighthand.name=Aura Queen`s light
+tiles4leaguefloor1.name=Fancy Stonish Flooring
+tile.s4leaguefloor2.name=Fancy Wooden Flooring
+itemGroup.wallzSuperr Ultra ...Wallz!
